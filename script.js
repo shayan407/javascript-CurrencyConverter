@@ -29,5 +29,3 @@ currency1.addEventListener('change', calculate);
 amount1.addEventListener('input', calculate);
 currency1.addEventListener('change', calculate);
 amount2.addEventListener('input', calculate);
-
-calculate();
